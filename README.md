@@ -2,6 +2,6 @@
 my rice
 
 **contents**
-polybar
-i3
-.bashrc
+polybar  
+i3  
+.bashrc  
