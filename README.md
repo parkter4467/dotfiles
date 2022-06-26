@@ -1,7 +1,7 @@
 # dotfiles
 my rice
 
-**contents**
+**contents:**  
 polybar  
 i3  
 .bashrc  
